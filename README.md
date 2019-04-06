@@ -6,3 +6,5 @@ This is a game of Assassins where everyone is trying to murder everyone. This ga
 I scripted the AssassinNode.java and AssassinManager.java file which maintains the game's ability to tracka and record as the player is playing.
 
 https://github.com/jinc132/Assassin-Game/blob/master/AssassinManager.java
+
+https://github.com/jinc132/Assassin-Game/blob/master/AssassinNode.java
